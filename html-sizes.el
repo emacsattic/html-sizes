@@ -127,6 +127,6 @@ document.)"
     (message "Total %d file sizes, %d differed, %d missing"
              total differ missing)))
 
-(provide 'html-sizes-update)
+(provide 'html-sizes)
 
 ;;; html-sizes.el ends here
